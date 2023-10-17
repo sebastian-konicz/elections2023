@@ -1,0 +1,380 @@
+const_id,county_id,county_name,county_link
+1,20100,Powiat bolesławiecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/20100
+1,20300,Powiat głogowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/20300
+1,20500,Powiat jaworski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/20500
+1,20600,Powiat karkonoski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/20600
+1,20700,Powiat kamiennogórski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/20700
+1,20900,Powiat legnicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/20900
+1,21000,Powiat lubański,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/21000
+1,21100,Powiat lubiński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/21100
+1,21200,Powiat lwówecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/21200
+1,21600,Powiat polkowicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/21600
+1,22500,Powiat zgorzelecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/22500
+1,22600,Powiat złotoryjski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/22600
+1,26100,Miasto na prawach powiatu Jelenia Góra,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/26100
+1,26200,Miasto na prawach powiatu Legnica,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/26200
+2,20200,Powiat dzierżoniowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/20200
+2,20800,Powiat kłodzki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/20800
+2,21900,Powiat świdnicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/21900
+2,22100,Powiat wałbrzyski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/22100
+2,22400,Powiat ząbkowicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/22400
+2,26500,Miasto na prawach powiatu Wałbrzych,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/26500
+3,20400,Powiat górowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/20400
+3,21300,Powiat milicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/21300
+3,21400,Powiat oleśnicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/21400
+3,21500,Powiat oławski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/21500
+3,21700,Powiat strzeliński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/21700
+3,21800,Powiat średzki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/21800
+3,22000,Powiat trzebnicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/22000
+3,22200,Powiat wołowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/22200
+3,22300,Powiat wrocławski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/22300
+3,26400,Miasto na prawach powiatu Wrocław,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/26400
+4,40300,Powiat bydgoski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/40300
+4,40700,Powiat inowrocławski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/40700
+4,40900,Powiat mogileński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/40900
+4,41000,Powiat nakielski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/41000
+4,41300,Powiat sępoleński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/41300
+4,41400,Powiat świecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/41400
+4,41600,Powiat tucholski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/41600
+4,41900,Powiat żniński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/41900
+4,46100,Miasto na prawach powiatu Bydgoszcz,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/46100
+5,40100,Powiat aleksandrowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/40100
+5,40200,Powiat brodnicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/40200
+5,40400,Powiat chełmiński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/40400
+5,40500,Powiat golubsko-dobrzyński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/40500
+5,40600,Powiat grudziądzki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/40600
+5,40800,Powiat lipnowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/40800
+5,41100,Powiat radziejowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/41100
+5,41200,Powiat rypiński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/41200
+5,41500,Powiat toruński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/41500
+5,41700,Powiat wąbrzeski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/41700
+5,41800,Powiat włocławski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/41800
+5,46200,Miasto na prawach powiatu Grudziądz,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/46200
+5,46300,Miasto na prawach powiatu Toruń,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/46300
+5,46400,Miasto na prawach powiatu Włocławek,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/46400
+6,60500,Powiat janowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/60500
+6,60700,Powiat kraśnicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/60700
+6,60800,Powiat lubartowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/60800
+6,60900,Powiat lubelski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/60900
+6,61000,Powiat łęczyński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/61000
+6,61100,Powiat łukowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/61100
+6,61200,Powiat opolski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/61200
+6,61400,Powiat puławski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/61400
+6,61600,Powiat rycki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/61600
+6,61700,Powiat świdnicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/61700
+6,66300,Miasto na prawach powiatu Lublin,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/66300
+7,60100,Powiat bialski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/60100
+7,60200,Powiat biłgorajski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/60200
+7,60300,Powiat chełmski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/60300
+7,60400,Powiat hrubieszowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/60400
+7,60600,Powiat krasnostawski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/60600
+7,61300,Powiat parczewski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/61300
+7,61500,Powiat radzyński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/61500
+7,61800,Powiat tomaszowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/61800
+7,61900,Powiat włodawski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/61900
+7,62000,Powiat zamojski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/62000
+7,66100,Miasto na prawach powiatu Biała Podlaska,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/66100
+7,66200,Miasto na prawach powiatu Chełm,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/66200
+7,66400,Miasto na prawach powiatu Zamość,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/66400
+8,80100,Powiat gorzowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/80100
+8,80200,Powiat krośnieński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/80200
+8,80300,Powiat międzyrzecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/80300
+8,80400,Powiat nowosolski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/80400
+8,80500,Powiat słubicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/80500
+8,80600,Powiat strzelecko-drezdenecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/80600
+8,80700,Powiat sulęciński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/80700
+8,80800,Powiat świebodziński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/80800
+8,80900,Powiat zielonogórski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/80900
+8,81000,Powiat żagański,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/81000
+8,81100,Powiat żarski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/81100
+8,81200,Powiat wschowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/81200
+8,86100,Miasto na prawach powiatu Gorzów Wielkopolski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/86100
+8,86200,Miasto na prawach powiatu Zielona Góra,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/86200
+9,100600,Powiat łódzki wschodni,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/100600
+9,102100,Powiat brzeziński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/102100
+9,106100,Miasto na prawach powiatu Łódź,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/106100
+10,100100,Powiat bełchatowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/100100
+10,100700,Powiat opoczyński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/100700
+10,101000,Powiat piotrkowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/101000
+10,101200,Powiat radomszczański,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/101200
+10,101300,Powiat rawski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/101300
+10,101500,Powiat skierniewicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/101500
+10,101600,Powiat tomaszowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/101600
+10,106200,Miasto na prawach powiatu Piotrków Trybunalski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/106200
+10,106300,Miasto na prawach powiatu Skierniewice,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/106300
+11,100200,Powiat kutnowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/100200
+11,100300,Powiat łaski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/100300
+11,100400,Powiat łęczycki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/100400
+11,100500,Powiat łowicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/100500
+11,100800,Powiat pabianicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/100800
+11,100900,Powiat pajęczański,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/100900
+11,101100,Powiat poddębicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/101100
+11,101400,Powiat sieradzki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/101400
+11,101700,Powiat wieluński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/101700
+11,101800,Powiat wieruszowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/101800
+11,101900,Powiat zduńskowolski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/101900
+11,102000,Powiat zgierski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/102000
+12,120300,Powiat chrzanowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/120300
+12,120900,Powiat myślenicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/120900
+12,121300,Powiat oświęcimski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/121300
+12,121500,Powiat suski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/121500
+12,121800,Powiat wadowicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/121800
+13,120600,Powiat krakowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/120600
+13,120800,Powiat miechowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/120800
+13,121200,Powiat olkuski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/121200
+13,126100,Miasto na prawach powiatu Kraków,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/126100
+14,120500,Powiat gorlicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/120500
+14,120700,Powiat limanowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/120700
+14,121000,Powiat nowosądecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/121000
+14,121100,Powiat nowotarski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/121100
+14,121700,Powiat tatrzański,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/121700
+14,126200,Miasto na prawach powiatu Nowy Sącz,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/126200
+15,120100,Powiat bocheński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/120100
+15,120200,Powiat brzeski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/120200
+15,120400,Powiat dąbrowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/120400
+15,121400,Powiat proszowicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/121400
+15,121600,Powiat tarnowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/121600
+15,121900,Powiat wielicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/121900
+15,126300,Miasto na prawach powiatu Tarnów,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/126300
+16,140200,Powiat ciechanowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/140200
+16,140400,Powiat gostyniński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/140400
+16,141300,Powiat mławski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/141300
+16,141900,Powiat płocki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/141900
+16,142000,Powiat płoński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/142000
+16,142200,Powiat przasnyski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/142200
+16,142700,Powiat sierpecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/142700
+16,142800,Powiat sochaczewski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/142800
+16,143700,Powiat żuromiński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/143700
+16,143800,Powiat żyrardowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/143800
+16,146200,Miasto na prawach powiatu Płock,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/146200
+17,140100,Powiat białobrzeski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/140100
+17,140600,Powiat grójecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/140600
+17,140700,Powiat kozienicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/140700
+17,140900,Powiat lipski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/140900
+17,142300,Powiat przysuski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/142300
+17,142500,Powiat radomski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/142500
+17,143000,Powiat szydłowiecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/143000
+17,143600,Powiat zwoleński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/143600
+17,146300,Miasto na prawach powiatu Radom,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/146300
+18,140300,Powiat garwoliński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/140300
+18,141000,Powiat łosicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/141000
+18,141100,Powiat makowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/141100
+18,141200,Powiat miński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/141200
+18,141500,Powiat ostrołęcki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/141500
+18,141600,Powiat ostrowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/141600
+18,142400,Powiat pułtuski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/142400
+18,142600,Powiat siedlecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/142600
+18,142900,Powiat sokołowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/142900
+18,143300,Powiat węgrowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/143300
+18,143500,Powiat wyszkowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/143500
+18,146100,Miasto na prawach powiatu Ostrołęka,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/146100
+18,146400,Miasto na prawach powiatu Siedlce,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/146400
+20,140500,Powiat grodziski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/140500
+20,140800,Powiat legionowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/140800
+20,141400,Powiat nowodworski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/141400
+20,141700,Powiat otwocki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/141700
+20,141800,Powiat piaseczyński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/141800
+20,142100,Powiat pruszkowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/142100
+20,143200,Powiat warszawski zachodni,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/143200
+20,143400,Powiat wołomiński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/143400
+21,160100,Powiat brzeski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/160100
+21,160200,Powiat głubczycki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/160200
+21,160300,Powiat kędzierzyńsko-kozielski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/160300
+21,160400,Powiat kluczborski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/160400
+21,160500,Powiat krapkowicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/160500
+21,160600,Powiat namysłowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/160600
+21,160700,Powiat nyski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/160700
+21,160800,Powiat oleski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/160800
+21,160900,Powiat opolski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/160900
+21,161000,Powiat prudnicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/161000
+21,161100,Powiat strzelecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/161100
+21,166100,Miasto na prawach powiatu Opole,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/166100
+22,180100,Powiat bieszczadzki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/180100
+22,180200,Powiat brzozowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/180200
+22,180400,Powiat jarosławski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/180400
+22,180500,Powiat jasielski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/180500
+22,180700,Powiat krośnieński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/180700
+22,180900,Powiat lubaczowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/180900
+22,181300,Powiat przemyski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/181300
+22,181400,Powiat przeworski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/181400
+22,181700,Powiat sanocki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/181700
+22,182100,Powiat leski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/182100
+22,186100,Miasto na prawach powiatu Krosno,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/186100
+22,186200,Miasto na prawach powiatu Przemyśl,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/186200
+23,180300,Powiat dębicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/180300
+23,180600,Powiat kolbuszowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/180600
+23,180800,Powiat leżajski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/180800
+23,181000,Powiat łańcucki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/181000
+23,181100,Powiat mielecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/181100
+23,181200,Powiat niżański,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/181200
+23,181500,Powiat ropczycko-sędziszowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/181500
+23,181600,Powiat rzeszowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/181600
+23,181800,Powiat stalowowolski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/181800
+23,181900,Powiat strzyżowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/181900
+23,182000,Powiat tarnobrzeski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/182000
+23,186300,Miasto na prawach powiatu Rzeszów,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/186300
+23,186400,Miasto na prawach powiatu Tarnobrzeg,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/186400
+24,200100,Powiat augustowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/200100
+24,200200,Powiat białostocki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/200200
+24,200300,Powiat bielski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/200300
+24,200400,Powiat grajewski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/200400
+24,200500,Powiat hajnowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/200500
+24,200600,Powiat kolneński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/200600
+24,200700,Powiat łomżyński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/200700
+24,200800,Powiat moniecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/200800
+24,200900,Powiat sejneński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/200900
+24,201000,Powiat siemiatycki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/201000
+24,201100,Powiat sokólski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/201100
+24,201200,Powiat suwalski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/201200
+24,201300,Powiat wysokomazowiecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/201300
+24,201400,Powiat zambrowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/201400
+24,206100,Miasto na prawach powiatu Białystok,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/206100
+24,206200,Miasto na prawach powiatu Łomża,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/206200
+24,206300,Miasto na prawach powiatu Suwałki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/206300
+25,220400,Powiat gdański,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/220400
+25,220700,Powiat kwidzyński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/220700
+25,220900,Powiat malborski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/220900
+25,221000,Powiat nowodworski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/221000
+25,221300,Powiat starogardzki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/221300
+25,221400,Powiat tczewski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/221400
+25,221600,Powiat sztumski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/221600
+25,226100,Miasto na prawach powiatu Gdańsk,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/226100
+25,226400,Miasto na prawach powiatu Sopot,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/226400
+26,220100,Powiat bytowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/220100
+26,220200,Powiat chojnicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/220200
+26,220300,Powiat człuchowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/220300
+26,220500,Powiat kartuski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/220500
+26,220600,Powiat kościerski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/220600
+26,220800,Powiat lęborski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/220800
+26,221100,Powiat pucki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/221100
+26,221200,Powiat słupski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/221200
+26,221500,Powiat wejherowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/221500
+26,226200,Miasto na prawach powiatu Gdynia,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/226200
+26,226300,Miasto na prawach powiatu Słupsk,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/226300
+27,240200,Powiat bielski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/240200
+27,240300,Powiat cieszyński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/240300
+27,241000,Powiat pszczyński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/241000
+27,241700,Powiat żywiecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/241700
+27,246100,Miasto na prawach powiatu Bielsko-Biała,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/246100
+28,240400,Powiat częstochowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/240400
+28,240600,Powiat kłobucki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/240600
+28,240700,Powiat lubliniecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/240700
+28,240900,Powiat myszkowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/240900
+28,246400,Miasto na prawach powiatu Częstochowa,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/246400
+29,240500,Powiat gliwicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/240500
+29,241300,Powiat tarnogórski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/241300
+29,246200,Miasto na prawach powiatu Bytom,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/246200
+29,246600,Miasto na prawach powiatu Gliwice,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/246600
+29,247800,Miasto na prawach powiatu Zabrze,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/247800
+30,240800,Powiat mikołowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/240800
+30,241100,Powiat raciborski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/241100
+30,241200,Powiat rybnicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/241200
+30,241500,Powiat wodzisławski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/241500
+30,246700,Miasto na prawach powiatu Jastrzębie-Zdrój,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/246700
+30,247300,Miasto na prawach powiatu Rybnik,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/247300
+30,247900,Miasto na prawach powiatu Żory,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/247900
+31,241400,Powiat bieruńsko-lędziński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/241400
+31,246300,Miasto na prawach powiatu Chorzów,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/246300
+31,246900,Miasto na prawach powiatu Katowice,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/246900
+31,247000,Miasto na prawach powiatu Mysłowice,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/247000
+31,247100,Miasto na prawach powiatu Piekary Śląskie,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/247100
+31,247200,Miasto na prawach powiatu Ruda Śląska,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/247200
+31,247400,Miasto na prawach powiatu Siemianowice Śląskie,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/247400
+31,247600,Miasto na prawach powiatu Świętochłowice,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/247600
+31,247700,Miasto na prawach powiatu Tychy,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/247700
+32,240100,Powiat będziński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/240100
+32,241600,Powiat zawierciański,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/241600
+32,246500,Miasto na prawach powiatu Dąbrowa Górnicza,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/246500
+32,246800,Miasto na prawach powiatu Jaworzno,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/246800
+32,247500,Miasto na prawach powiatu Sosnowiec,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/247500
+33,260100,Powiat buski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/260100
+33,260200,Powiat jędrzejowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/260200
+33,260300,Powiat kazimierski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/260300
+33,260400,Powiat kielecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/260400
+33,260500,Powiat konecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/260500
+33,260600,Powiat opatowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/260600
+33,260700,Powiat ostrowiecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/260700
+33,260800,Powiat pińczowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/260800
+33,260900,Powiat sandomierski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/260900
+33,261000,Powiat skarżyski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/261000
+33,261100,Powiat starachowicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/261100
+33,261200,Powiat staszowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/261200
+33,261300,Powiat włoszczowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/261300
+33,266100,Miasto na prawach powiatu Kielce,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/266100
+34,280100,Powiat bartoszycki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/280100
+34,280200,Powiat braniewski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/280200
+34,280300,Powiat działdowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/280300
+34,280400,Powiat elbląski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/280400
+34,280700,Powiat iławski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/280700
+34,280900,Powiat lidzbarski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/280900
+34,281200,Powiat nowomiejski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/281200
+34,281500,Powiat ostródzki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/281500
+34,286100,Miasto na prawach powiatu Elbląg,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/286100
+35,280500,Powiat ełcki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/280500
+35,280600,Powiat giżycki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/280600
+35,280800,Powiat kętrzyński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/280800
+35,281000,Powiat mrągowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/281000
+35,281100,Powiat nidzicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/281100
+35,281300,Powiat olecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/281300
+35,281400,Powiat olsztyński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/281400
+35,281600,Powiat piski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/281600
+35,281700,Powiat szczycieński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/281700
+35,281800,Powiat gołdapski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/281800
+35,281900,Powiat węgorzewski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/281900
+35,286200,Miasto na prawach powiatu Olsztyn,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/286200
+36,300400,Powiat gostyński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/300400
+36,300600,Powiat jarociński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/300600
+36,300700,Powiat kaliski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/300700
+36,300800,Powiat kępiński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/300800
+36,301100,Powiat kościański,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/301100
+36,301200,Powiat krotoszyński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/301200
+36,301300,Powiat leszczyński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/301300
+36,301700,Powiat ostrowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/301700
+36,301800,Powiat ostrzeszowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/301800
+36,302000,Powiat pleszewski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/302000
+36,302200,Powiat rawicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/302200
+36,306100,Miasto na prawach powiatu Kalisz,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/306100
+36,306300,Miasto na prawach powiatu Leszno,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/306300
+37,300300,Powiat gnieźnieński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/300300
+37,300900,Powiat kolski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/300900
+37,301000,Powiat koniński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/301000
+37,302300,Powiat słupecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/302300
+37,302500,Powiat średzki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/302500
+37,302600,Powiat śremski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/302600
+37,302700,Powiat turecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/302700
+37,303000,Powiat wrzesiński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/303000
+37,306200,Miasto na prawach powiatu Konin,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/306200
+38,300100,Powiat chodzieski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/300100
+38,300200,Powiat czarnkowsko-trzcianecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/300200
+38,300500,Powiat grodziski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/300500
+38,301400,Powiat międzychodzki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/301400
+38,301500,Powiat nowotomyski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/301500
+38,301600,Powiat obornicki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/301600
+38,301900,Powiat pilski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/301900
+38,302400,Powiat szamotulski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/302400
+38,302800,Powiat wągrowiecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/302800
+38,302900,Powiat wolsztyński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/302900
+38,303100,Powiat złotowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/303100
+39,302100,Powiat poznański,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/302100
+39,306400,Miasto na prawach powiatu Poznań,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/306400
+40,320100,Powiat białogardzki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/320100
+40,320200,Powiat choszczeński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/320200
+40,320300,Powiat drawski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/320300
+40,320800,Powiat kołobrzeski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/320800
+40,320900,Powiat koszaliński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/320900
+40,321300,Powiat sławieński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/321300
+40,321500,Powiat szczecinecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/321500
+40,321600,Powiat świdwiński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/321600
+40,321700,Powiat wałecki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/321700
+40,326100,Miasto na prawach powiatu Koszalin,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/326100
+41,320400,Powiat goleniowski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/320400
+41,320500,Powiat gryficki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/320500
+41,320600,Powiat gryfiński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/320600
+41,320700,Powiat kamieński,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/320700
+41,321000,Powiat myśliborski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/321000
+41,321100,Powiat policki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/321100
+41,321200,Powiat pyrzycki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/321200
+41,321400,Powiat stargardzki,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/321400
+41,321800,Powiat łobeski,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/321800
+41,326200,Miasto na prawach powiatu Szczecin,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/326200
+41,326300,Miasto na prawach powiatu Świnoujście,https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pow/326300

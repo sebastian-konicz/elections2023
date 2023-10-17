@@ -21,9 +21,6 @@ def main():
     # project directory
     path = var.project_dir
 
-    url = "https://wybory.gov.pl/sejmsenat2023/pl/sejm/wynik/pl"
-
-
     links_df = pd.read_csv(path + consts_links_path, delimiter=',')
 
     # creating list with links
@@ -85,6 +82,7 @@ def main():
     # concatenating dataframes
     county_link_data = pd.concat(county_df_list, axis=0, sort=False)
 
+    print(county_link_data.head(5))
     print('długość finalnego dataframu:', len(county_link_data.index))
 
     # # saving dataframe
