@@ -13,7 +13,9 @@ def main():
 
     # # output files
     county_links_path = r'\data\raw\002_county_links.csv'
+    # county_links_path = r'\data\raw\002_county_links_short.csv'
     muni_links_path = r'\data\raw\003_municipality_links.csv'
+    county_cities_path = r'\data\raw\003_county_cities_links.csv'
 
     # start time of function
     start_time = time.time()
@@ -27,30 +29,30 @@ def main():
     county_link = links_df["county_link"].tolist()
     county_id = links_df["county_id"].tolist()
 
-    const = dict(zip(county_id, county_link))
+    county = dict(zip(county_id, county_link))
 
     muni_df_list = []
+    county_cities_id_list = []
 
-    for id, link in const.items():
-        print('okręg', id)
-        if id != 19:
-            url = link
+    for id, link in county.items():
+        print('powiat', id)
+        url = link
 
-            session = HTMLSession()
-            response = session.get(url)
+        session = HTMLSession()
+        response = session.get(url)
 
-            # rendering html and waiting for site to load fully
-            response.html.render(sleep=1)
+        # rendering html and waiting for site to load fully
+        response.html.render(sleep=1)
 
-            soup = BeautifulSoup(response.html.html, 'html.parser')
+        soup = BeautifulSoup(response.html.html, 'html.parser')
 
-            muni_ul = soup.find_all('ul', class_="list")
-            muni_ul = muni_ul[0].find_all('ul')
-            muni_ul = muni_ul[0].find_all('ul')
-            muni_ul = muni_ul[0].find_all('ul')
+        poland_ul = soup.find_all('ul', class_="list")
+        consts_ul = poland_ul[0].find_all('ul')
+        county_ul = consts_ul[0].find_all('ul')
+        muni_ul = county_ul[0].find_all('ul')
+        if len(muni_ul) != 0:
             muni_li = muni_ul[0].find_all('li')
 
-            print(muni_li)
             county_id_list = []
             muni_id_list = []
             muni_name_list = []
@@ -69,7 +71,7 @@ def main():
                 muni_id_list.append(muni_id)
                 muni_name_list.append(muni_name)
                 muni_link_list.append(muni_link)
-                print(id, muni_id, muni_name, muni_link)
+                # print(id, muni_id, muni_name, muni_link)
 
             # zipping lists
             data_tuple = list(zip(county_id_list, muni_id_list, muni_name_list, muni_link_list))
@@ -78,17 +80,24 @@ def main():
             muni_link_df = pd.DataFrame(data_tuple, columns=["county_id", "municipality_id", "municipality_name", "municipality_link"])
 
             muni_df_list.append(muni_link_df)
+
         else:
-            pass
+            county_cities_id_list.append(id)
 
     # concatenating dataframes
     muni_link_data = pd.concat(muni_df_list, axis=0, sort=False)
 
     print(muni_link_data.head(5))
-    print('długość finalnego dataframu:', len(muni_link_data.index))
+    print('długość finalnego dataframu - municipalities:', len(muni_link_data.index))
 
-    # # saving dataframe
+    county_cities = links_df[links_df.county_id.isin(county_cities_id_list)]
+
+    print(county_cities.head(5))
+    print('długość finalnego dataframu - county cities:', len(county_cities.index))
+
+    # # saving dataframes
     muni_link_data.to_csv(path + muni_links_path, index=False, encoding='UTF-8')
+    county_cities.to_csv(path + county_cities_path, index=False, encoding='UTF-8')
 
     # end time of program + duration
     end_time = time.time()

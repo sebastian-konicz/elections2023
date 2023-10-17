@@ -29,8 +29,8 @@ def main():
 
     soup = BeautifulSoup(response.html.html, 'html.parser')
 
-    consts_ul = soup.find_all('ul', class_="columns3")
-    consts_li = consts_ul[0].find_all('li')
+    poland_ul = soup.find_all('ul', class_="columns3")
+    consts_li = poland_ul[0].find_all('li')
 
     const_id_list = []
     const_name_list = []
