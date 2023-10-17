@@ -31,6 +31,7 @@ def main():
     session = HTMLSession()
     response = session.get(url)
     response.html.render(sleep=1)
+
     print(response.html)
 
     soup = BeautifulSoup(response.html.html, 'html.parser')
